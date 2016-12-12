@@ -1,0 +1,31 @@
+{
+  "name": "angular-ckeditor",
+  "main": "angular-ckeditor.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aiyuninfo/angular-ckeditor",
+  "authors": [
+    "Aiyun team"
+  ],
+  "description": "CKEditor directive for Angular.",
+  "keywords": [
+    "angular",
+    "directive",
+    "ckeditor"
+  ],
+  "dependencies": {
+    "angular": ">=1.4.0",
+    "ckeditor": "#full/4.4.6",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "package.json",
+    "karma.conf.js",
+    "node_modules",
+    "bower_components",
+    "Gruntfile.js",
+    "test"
+  ]
+}
