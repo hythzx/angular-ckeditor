@@ -1,7 +1,7 @@
 {
   "name": "angular-ckeditor",
   "main": "angular-ckeditor.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/hythzx/angular-ckeditor",
   "authors": [
     "Aiyun team"
@@ -13,8 +13,8 @@
     "ckeditor"
   ],
   "dependencies": {
-    "angular": ">=1.4.0",
-    "ckeditor": "#full/4.4.6",
+    "angular": ">=1.5.0",
+    "ckeditor": "~4.6.0",
     "jquery": "~2.1.4",
     "lodash": "~3.10.1"
   },
